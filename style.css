@@ -45,13 +45,13 @@ span.seis{
   position: absolute;
   top: 50%;
   right: 50%;
-  margin-right: -200px;
+  margin-right: -230px;
   animation: vai_2016 5s ease-in-out 5s forwards;
 }
 span.sete{
   position: absolute;
   right: 0%;
-  margin-right: -200px;
+  margin-right: -230px;
   animation: vem_2017 6s ease-in-out forwards;
 }
 span.sete:before{
